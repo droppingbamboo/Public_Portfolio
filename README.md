@@ -9,3 +9,13 @@ to my success with this project.  The textures used are all my own.</p>
 
 This is the original tableau: 
 ![Original Tableau](https://github.com/droppingbamboo/Public_Portfolio/assets/63943029/4b8706c4-8407-4ca2-aefe-5132cfb9359f)
+
+<p>As you can see, I did make some changes to the version in the OpenGL project.  I took the original picture before I had started learning OpenGL and did not understand how
+some of the shape complexities were beyond the scope of the assignment and the abilities I could acquire over the course of eight weeks.</p>
+
+Lessons Learned:
+<ul>
+<li>Separation of concerns should be a consideration from the first line of code written.</li>
+<li>When taking pictures for textures, minimize edge shadows.</li>
+<li>Take the time to test the drawing of every simple shape in your final tableau independently.</li>
+</ul>
