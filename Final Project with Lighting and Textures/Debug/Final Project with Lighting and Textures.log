@@ -1,0 +1,14 @@
+﻿  BasketandTable.cpp
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(280,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(404,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(426,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(464,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(651,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(1230,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(1231,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(1235,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(1236,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(1237,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\BasketandTable.cpp(1238,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Final Project with Lighting and Textures.vcxproj -> C:\Users\Brionne\source\repos\Final Project with Lighting and Textures\Debug\Final Project with Lighting and Textures.exe
