@@ -13,7 +13,7 @@ This is the original tableau:
 <p>As you can see, I did make some changes to the version in the OpenGL project.  I took the original picture before I had started learning OpenGL and did not understand how
 some of the shape complexities were beyond the scope of the assignment and the abilities I could acquire over the course of eight weeks.</p>
 
-![OpenGL Demo on YouTube](https://youtu.be/ptxFzQnKvbg)
+<a href="https://youtu.be/ptxFzQnKvbg">YouTube Demo of OpenGL Project</a>
 
 Lessons Learned:
 <ul>
