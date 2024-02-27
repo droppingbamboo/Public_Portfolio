@@ -5,9 +5,10 @@ This space will be used as an introduction to my technical skills. The projects 
 <h1>Yummgy - a recipe sharing site</h1>
 <h2>Full Stack Web Application hosted on AWS</h2>
 <h2>Developed using Java, JavaScript, MySQL, React and Bootstrap</h2>
-<hr>
+<hr></hr>
 www.yummgy.com
   I served as Scrum Leader for this project and primary database designer.  I also created the wireframes for the responsive design and contributed to React development.  I was the sole party responsible for deploying the finished application in the AWS ecosystem.
+  
 ![Yummgy_AWS_Architecture](https://github.com/droppingbamboo/Public_Portfolio/assets/63943029/0754e98c-a638-4e3c-afb8-9f99e40c76ec)
 Yummgy Landing Page:
 ![Yummgy Landing page](https://github.com/droppingbamboo/Public_Portfolio/assets/63943029/aad8fd3a-7c26-4862-b8b5-7db5dd1a20ec)
